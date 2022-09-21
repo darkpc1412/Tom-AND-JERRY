@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/67942bf8e34202c233d34.jpg" alt="Tom And Jerry Logo">
+ <img src="https://telegra.ph/file/67942bf8e34202c233d34.jpg" alt="Tom And Jerry Logo">
 </p>
 <h1 align="center">
   <b>TOM AND JERRY</b>
@@ -110,7 +110,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/crazyspiderat3/Tom-AND-JERRY">
+<a href="https://heroku.com/deploy?template=https://github.com/darkpc1412/Tom-AND-JERRY">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
