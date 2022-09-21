@@ -10,7 +10,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
 ║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙏𝙊𝙈 ⅋ ᴶᴱᴿᴿʸ
-║┣⪼❈ ᴅᴇᴠᴏʟᴏᴘᴇʀ: <a href=https://t.me/AFxSU>Cɾαȥყ</a>
+║┣⪼❈ ᴅᴇᴠᴏʟᴏᴘᴇʀ: <a href=https://t.me/Justinvrgs>Cɾαȥყ</a>
 ║┣⪼❈ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼❈ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼❈ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -25,8 +25,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 - S̷o̷u̷r̷c̷e̷ - <a href="https://GitHub.com">ʀᴇᴘᴘᴏ</a>
 
 ★𝐃𝐄𝐕𝐒★
-- <a href="https://t.me/Crazy_Lolan">❈ΛJΛƧ</a></b>
-- <a href="https://t.me/mr_d_fox">✯мŕ_ȡ_ғόx</a></b>"""
+- <a href="https://t.me/Justinvrgs">❈Justin</a></b>
+- <a href="https://t.me/Justinvrgs">✯Justin</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 <b>ɴᴏᴛᴇ:</b>
@@ -45,7 +45,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/at3movies)</code>
+<code>[Button Text](buttonurl:https://t.me/mnxmovies124)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
@@ -143,7 +143,7 @@ Nᴀᴍᴇ - {}
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {}😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ.❤️
 
-Jᴏɪɴ Oᴜʀ <a href='https://t.me/at3_movies'>Mᴀɪɴ Cʜᴀɴɴᴇʟ</a> Bᴇʟᴏᴡ Tᴏ Gᴇᴛ Aᴄᴄᴇss Tᴏ Tʜᴇ Mᴏᴠɪᴇs. Bᴇғᴏʀᴇ Rᴇᴏ̨ᴜᴇsᴛɪɴɢ Tʜᴇ Mᴏᴠɪᴇs, Mᴜsᴛ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ. Oɴʟʏ Bʏ Jᴏɪɴɪɴɢ Wɪʟʟ Yᴏᴜ Gᴇᴛ Aᴄᴄᴇss Tᴏ Aʟʟ Tʜᴇ Mᴏᴠɪᴇs...
+Jᴏɪɴ Oᴜʀ <a href='https://t.me/mnxmovies124'>Mᴀɪɴ Cʜᴀɴɴᴇʟ</a> Bᴇʟᴏᴡ Tᴏ Gᴇᴛ Aᴄᴄᴇss Tᴏ Tʜᴇ Mᴏᴠɪᴇs. Bᴇғᴏʀᴇ Rᴇᴏ̨ᴜᴇsᴛɪɴɢ Tʜᴇ Mᴏᴠɪᴇs, Mᴜsᴛ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ. Oɴʟʏ Bʏ Jᴏɪɴɪɴɢ Wɪʟʟ Yᴏᴜ Gᴇᴛ Aᴄᴄᴇss Tᴏ Aʟʟ Tʜᴇ Mᴏᴠɪᴇs...
 
 NB: Yᴏᴜ Cᴀɴ Oɴʟʏ Gᴇᴛ Tʜᴇ Mᴏᴠɪᴇ Bʏ Tʏᴘɪɴɢ Iɴ Tʜᴇ Cᴏʀʀᴇᴄᴛ Sᴘᴇʟʟɪɴɢ...
 
@@ -155,8 +155,8 @@ Iғ Yᴏᴜ Dᴏ Nᴏᴛ Gᴇᴛ Tʜᴇ Mᴏᴠɪᴇ / Sᴇʀɪᴇs, Mᴇɴᴛɪ
 
     OWNER_INFO ="""<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ▰▱▱▱▱▱▱▱▱▱▱▱▰
-•  ɴᴀᴍᴇ : AFSU
-• ᴜꜱᴇʀɴᴀᴍᴇ : @AFxSU </b> 
+•  ɴᴀᴍᴇ : Justin
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Justinvrgs </b> 
 ▰▱▱▱▱▱▱▱▱▱▱▱▰ 
    
 """
